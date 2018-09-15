@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Black Wallpaper-4K Dark Edition</string>
+    <string name="Splash_Screen_Quote">Darkness Is Light</string>
+    <string name="title_activity_wallpaper_interface">WallpaperInterface</string>
+    <string name="admob_banner_id"> </string>
+    <string name="admob_banner_id2"> </string>
+
+    <string name="admob_banner_id3">ca-app-pub-6100493979711956/5806004769</string>
+    <string name="admob_banner_id4">ca-app-pub-6100493979711956/3247838773</string>
+</resources>

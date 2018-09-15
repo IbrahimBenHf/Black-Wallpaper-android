@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/frijole</item>
+        <item>@font/holtwood_one_sc</item>
+        <item>@font/nothing_you_could_do</item>
+    </array>
+</resources>

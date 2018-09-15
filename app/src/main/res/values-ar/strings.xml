@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خلفيات سوداء روعة - 4K</string>
+    <string name="Splash_Screen_Quote">ظلام الليل</string>
+    <string name="admob_banner_id">ca-app-pub-6100493979711956/5806004769</string>
+    <string name="admob_banner_id2">ca-app-pub-6100493979711956/3247838773</string>
+    <string name="title_activity_wallpaper_interface">WallpaperInterface</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
