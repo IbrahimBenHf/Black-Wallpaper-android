@@ -6,7 +6,7 @@ A simple wallpaper app that uses firebase to store images and downlod it from.
 
 # What To Do
 
-We need to make it better it works but not in a good way for a user
+We need to make it better it works but not in a good way for a user, you're free to do the changes you think is better, then at some point we will make a plan.
 
 # Test
 
